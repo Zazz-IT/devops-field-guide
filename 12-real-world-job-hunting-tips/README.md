@@ -1,4 +1,4 @@
-## **🚀 20 Real-World Job Hunting Tips for DevOps Engineers (with Code!)**
+## **🚀 12 Real-World Job Hunting Tips for DevOps Engineers (with Code!)**
 
 Whether you're applying to your 1st or 10th DevOps job—this guide is packed with real advice, metrics, and even code to help you stand out. 
 
@@ -147,7 +147,7 @@ Filter with:
 
  
 
-## **9. Join DevOps Communities** 
+## **8. Join DevOps Communities** 
 
 These help you network, learn, and even find referrals: 
 
@@ -160,7 +160,7 @@ Discord: Cloud Native, HashiCorp
 
 ## **🧠 Soft Skills Matter** 
 
-## **10. Use STAR Method in Behavioral Interviews** 
+## **9. Use STAR Method in Behavioral Interviews** 
 
 For example: 
 
@@ -180,7 +180,7 @@ Structure:
 
 ## **⚙️ Bonus Technical Tips** 
 
-## **11. Learn k9s and htop for Live Demos** 
+## **10. Learn k9s and htop for Live Demos** 
 
 They're perfect for live troubleshooting during interviews. 
 
@@ -190,7 +190,7 @@ htop  # Real-time system resource viewer
 
  
 
-## **12. Show Cost Optimization Projects** 
+## **11. Show Cost Optimization Projects** 
 
 Talk about using tools like: 
 
@@ -207,7 +207,7 @@ Talk about using tools like:
 
  
 
-## **🏁 Wrap-Up** 
+## **12. 🏁 Wrap-Up** 
 
 Getting hired in DevOps isn’t about listing every tool—it’s about showing how you solve real problems, automate smartly, scale efficiently, and collaborate fearlessly. 
 
