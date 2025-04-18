@@ -10,7 +10,8 @@ Whether you're applying to your 1st or 10th DevOps job—this guide is packed wi
 
 Hiring managers love seeing real work. Create a repo with reusable Terraform or Ansible code. 
 
-# terraform/aws/ec2/main.tf 
+**terraform/aws/ec2/main.tf** 
+```yaml 
 resource "aws_instance" "web" { 
   ami           = "ami-0abcdef1234567890" 
   instance_type = "t2.micro" 
@@ -18,6 +19,7 @@ resource "aws_instance" "web" {
     Name = "JobSearch-Demo" 
   } 
 } 
+```
   
 
 📌 Pin this repo. Add a solid README. Bonus if it includes terraform plan output or a diagram.png. 
@@ -28,9 +30,9 @@ resource "aws_instance" "web" {
 
 Use GitHub Actions to show how you deploy/test your apps. 
 
-# .github/workflows/deploy.ymllol 
+**.github/workflows/deploy.ymllol** 
 
- 
+ ```yaml 
 \name: CI/CD Pipeline 
  
  
@@ -48,7 +50,7 @@ jobs:
           node-version: '16' 
       - run: npm install 
       - run: npm run test 
-  
+  ```
 
 👀 This proves you understand automation and pipelines. 
 
@@ -59,7 +61,7 @@ jobs:
 Even a simple automation script like this can show value: 
 
 #!/bin/bash 
-# restart dockerized app and tail logs 
+**restart dockerized app and tail logs** 
 docker-compose down && docker-compose up -d 
 docker-compose logs -f 
   
@@ -112,14 +114,15 @@ AWS knowledge
 
 "Draw your architecture" is a classic prompt. Prepare something like this: 
 
-# simple eks cluster with private subnets 
+**simple eks cluster with private subnets** 
+```yaml 
 module "eks" { 
   source          = "terraform-aws-modules/eks/aws" 
   cluster_name    = "jobsearch-cluster" 
   subnets         = ["subnet-1", "subnet-2"] 
   manage_aws_auth = true 
 } 
-  
+```
 
 Be ready to explain why you chose private/public subnets, how you handle node autoscaling, and observability. 
 
@@ -194,14 +197,15 @@ htop  # Real-time system resource viewer
 
 Talk about using tools like: 
 
-# S3 lifecycle rule JSON snippet 
+**S3 lifecycle rule JSON snippet**
+```yaml  
 "Transitions": [ 
   { 
     "Days": 30, 
     "StorageClass": "GLACIER" 
   } 
 ] 
-  
+```
 
 💸 Hiring managers love people who think in terms of performance and cost. 
 
