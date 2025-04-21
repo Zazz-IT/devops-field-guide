@@ -221,7 +221,7 @@ Build your narrative. Back it with code. Share it with the world.
 
 ## **🔍 Looking for a DevOps role?** 
 
- Zazz is hiring remote engineers across LATAM. Apply on our website <a target="_blank" href="https://www.zazz.io/talent.html">10+ Best Software Developers for Hire USA | Zazz</a>
+ Zazz is hiring remote engineers across LATAM. Apply on our website <a target="_blank" href="https://www.zazz.io/talent.html"> 10+ Best Software Developers for Hire USA | Zazz</a>
 
 
 #DevOps #CareerTips #GitHub #Terraform #Kubernetes #RemoteWork #JobSearch #CI/CD #OpenToWork 
