@@ -11,11 +11,11 @@ Rather than running **kubectl apply** or manual scripts directly, GitOps systems
 
 ## **Why GitOps?**  
 
-**-  Consistency:** All changes are version-controlled. You can trace who did what, when, and why.  
-**Auditability:** Git provides a clear audit trail. 
-**Rollback support:** Reverting is as simple as rolling back a commit. 
-**Security:** Developers don’t need direct access to production systems. 
-*  **Scalability:** Supports large teams and multi-region clusters effectively. 
+* **Consistency:** All changes are version-controlled. You can trace who did what, when, and why.  
+* **Auditability:** Git provides a clear audit trail. 
+* **Rollback support:** Reverting is as simple as rolling back a commit. 
+* **Security:** Developers don’t need direct access to production systems. 
+* **Scalability:** Supports large teams and multi-region clusters effectively. 
 
 ## **GitOps Workflow** 
 
@@ -71,10 +71,10 @@ Commit this to a Git repository. Use Atlantis or a CI/CD pipeline to apply the c
 
 ## **Best Practices** 
 
-**-**  Use branches and pull requests for all changes. 
-**-**  Set up notifications for changes and sync status. 
-**-**  Validate changes with CI tools before applying. 
-**-**  Keep secrets out of Git—use tools like Sealed Secrets or HashiCorp Vault. 
+*  Use branches and pull requests for all changes. 
+*  Set up notifications for changes and sync status. 
+*  Validate changes with CI tools before applying. 
+*  Keep secrets out of Git—use tools like Sealed Secrets or HashiCorp Vault. 
 
 
 ## **Final Thoughts**
