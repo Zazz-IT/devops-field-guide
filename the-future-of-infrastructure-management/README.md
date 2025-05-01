@@ -12,10 +12,10 @@ Rather than running **kubectl apply** or manual scripts directly, GitOps systems
 ## **Why GitOps?**  
 
 **-  Consistency:** All changes are version-controlled. You can trace who did what, when, and why.  
-**-  Auditability:** Git provides a clear audit trail. 
-**-  Rollback support:** Reverting is as simple as rolling back a commit. 
-**-  Security:** Developers don’t need direct access to production systems. 
-**-  Scalability:** Supports large teams and multi-region clusters effectively. 
+**Auditability:** Git provides a clear audit trail. 
+**Rollback support:** Reverting is as simple as rolling back a commit. 
+**Security:** Developers don’t need direct access to production systems. 
+*  **Scalability:** Supports large teams and multi-region clusters effectively. 
 
 ## **GitOps Workflow** 
 
@@ -50,9 +50,9 @@ spec:
 
 ## **Tools in the GitOps Ecosystem** 
 
-**-  Argo CD:** Declarative, GitOps continuous delivery tool for Kubernetes. 
-**-  FluxCD:** Open-source toolset for keeping Kubernetes clusters in sync with sources of configuration. 
-**-  Terraform + Atlantis:** Infrastructure as Code with Git-based workflows. 
+* **Argo CD:** Declarative, GitOps continuous delivery tool for Kubernetes. 
+* **FluxCD:** Open-source toolset for keeping Kubernetes clusters in sync with sources of configuration. 
+* **Terraform + Atlantis:** Infrastructure as Code with Git-based workflows. 
 
 ## **Example: Terraform GitOps**
 
