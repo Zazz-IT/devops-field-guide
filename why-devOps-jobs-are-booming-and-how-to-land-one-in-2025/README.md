@@ -19,7 +19,7 @@ With more companies migrating to cloud-native architectures, **infrastructure au
 
  DevOps engineers with skills in **IaC (Infrastructure as Code), CI/CD, observability, and security** are being hired at record rates. 
 
- [🔗 Report: DevOps Job Market Outlook 2025 – TechCrunch]()
+ 🔗 [Report: DevOps Job Market Outlook 2025 – TechCrunch]()
 
  
 
@@ -52,7 +52,7 @@ Companies don’t just want “tool operators.” They want **builders, debugger
 
  🔹 Focus on end-to-end ownership, not just scripts and tooling 
 
- [🔗 The Rise of Platform Engineering – Humanitec]()
+ 🔗 [The Rise of Platform Engineering – Humanitec]()
 
  **👀 What This Means for You**
 
@@ -64,6 +64,6 @@ Startups, enterprises, and global tech companies are scaling rapidly and **hirin
 
 **🧑‍💻 If you’re a DevOps engineer looking for remote roles, career growth, and teams that respect your craft — register with us today.**
 
-[🔗 Join our talent network → https://www.zazz.io/hire-talent]()
+🔗 [Join our talent network → https://www.zazz.io/hire-talent](https://www.zazz.io/hire-talent)
 
 
