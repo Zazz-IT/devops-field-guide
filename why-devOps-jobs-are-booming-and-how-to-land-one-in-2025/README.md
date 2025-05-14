@@ -64,6 +64,6 @@ Startups, enterprises, and global tech companies are scaling rapidly and **hirin
 
 **🧑‍💻 If you’re a DevOps engineer looking for remote roles, career growth, and teams that respect your craft — register with us today.**
 
-🔗 [Join our talent network → https://www.zazz.io/hire-talent](https://www.zazz.io/hire-talent)
+🔗 [Join our talent network → https://www.zazz.io/hire-talent](https://www.zazz.io/talent.html?utm_source=linkedIn&utm_medium=social&utm_campaign=Talent)
 
 
