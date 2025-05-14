@@ -71,10 +71,10 @@ Commit this to a Git repository. Use Atlantis or a CI/CD pipeline to apply the c
 
 ## **Best Practices** 
 
-*  Use branches and pull requests for all changes. 
-*  Set up notifications for changes and sync status. 
-*  Validate changes with CI tools before applying. 
-*  Keep secrets out of Git—use tools like Sealed Secrets or HashiCorp Vault. 
+* Use branches and pull requests for all changes. 
+* Set up notifications for changes and sync status. 
+* Validate changes with CI tools before applying. 
+* Keep secrets out of Git—use tools like Sealed Secrets or HashiCorp Vault. 
 
 
 ## **Final Thoughts**
