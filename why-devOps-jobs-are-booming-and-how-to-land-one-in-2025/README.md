@@ -19,7 +19,7 @@ With more companies migrating to cloud-native architectures, **infrastructure au
 
  DevOps engineers with skills in **IaC (Infrastructure as Code), CI/CD, observability, and security** are being hired at record rates. 
 
- 🔗 [Report: DevOps Job Market Outlook 2025 – TechCrunch]()
+ 🔗 [Report: DevOps Job Market Outlook 2025 – TechCrunch](https://techcrunch.com/2020/08/25/as-devops-takes-off-site-reliability-engineers-are-flying-high/)
 
  
 
