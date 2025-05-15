@@ -52,7 +52,7 @@ Companies don’t just want “tool operators.” They want **builders, debugger
 
  🔹 Focus on end-to-end ownership, not just scripts and tooling 
 
- 🔗 [The Rise of Platform Engineering – Humanitec]()
+ 🔗 [The Rise of Platform Engineering – Humanitec](https://humanitec.com/blog/platform-as-a-product-the-evolution-of-devops-and-platform-engineering)
 
  **👀 What This Means for You**
 
