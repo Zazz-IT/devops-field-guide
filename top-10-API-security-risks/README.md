@@ -3,7 +3,7 @@
 In today’s digitally connected world, APIs are the backbone of modern applications. From mobile apps to SaaS platforms, they enable seamless data exchange and user experiences. But with this connectivity comes risk. APIs are now prime targets for cyberattacks, and failing to secure them can lead to devastating data breaches. 
 
 That’s why the **Open Worldwide Application Security Project (OWASP)** created the 
-[API Security Top 10](https://techcrunch.com/2020/08/25/as-devops-takes-off-site-reliability-engineers-are-flying-high/), a globally recognized standard outlining the most critical API vulnerabilities. Understanding and defending against these risks is *absolutely non-negotiable* for developers, security professionals, and product teams alike.  
+[API Security Top 10](https://owasp.org/API-Security/editions/2023/en/0x11-t10/), a globally recognized standard outlining the most critical API vulnerabilities. Understanding and defending against these risks is *absolutely non-negotiable* for developers, security professionals, and product teams alike.  
  
 
 # **Protect Your APIs from OWASP's Top 10 Security Threats**
