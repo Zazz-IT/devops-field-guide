@@ -129,11 +129,11 @@ Example GitHub Actions step:
 
 1. **Infrastructure:** Defined in Terraform and stored in Git 
 2. **CI/CD Pipeline:**  
-  a. GitHub Actions runs terraform init, plan, and apply   
-  b. Outputs (e.g., cluster endpoint, bucket names) are stored in secrets manager or GitOps      overlays  
-3. **Application Deployment:**   
-  a. Manifests in /k8s/overlays/dev are picked up by ArgoCD  
-  b. ArgoCD deploys apps to EKS and ensures the state matches Git  
+a. GitHub Actions runs terraform init, plan, and apply  
+b. Outputs (e.g., cluster endpoint, bucket names) are stored in secrets manager or GitOps      overlays  
+3. **Application Deployment:**  
+a. Manifests in /k8s/overlays/dev are picked up by ArgoCD  
+b. ArgoCD deploys apps to EKS and ensures the state matches Git  
 
 ## **Best Practices**
 
