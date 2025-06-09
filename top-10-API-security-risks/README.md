@@ -8,43 +8,43 @@ That’s why the **Open Worldwide Application Security Project (OWASP)** created
 
 # **Protect Your APIs from OWASP's Top 10 Security Threats**
 
-## * **Broken Object Level Authorization**  
+* **Broken Object Level Authorization**  
 Attackers manipulate object IDs to access data they shouldn’t see, leading to unauthorized data exposure or tampering.  
 *(Occurred in 38% of reported API breaches in 2024)*
 
-## * **Broken Authentication**  
+* **Broken Authentication**  
 By exploiting weak login mechanisms or tokens, attackers gain unauthorized access to user accounts and API endpoints.  
 *(Accounted for 29% of API vulnerabilities reported in Q1 2025)*
 
-## * **Broken Object Property Level Authorization**  
+* **Broken Object Property Level Authorization**  
 Attackers modify hidden or sensitive fields (like roles or permissions) via APIs not enforcing field-level access control.  
 *(Frequently exploited in business logic abuse cases, up 21% YoY)*
 
-## * **Unrestricted Resource Consumption**  
+* **Unrestricted Resource Consumption**  
 By flooding APIs with excessive requests, attackers exhaust system resources, causing downtime or degraded performance.  
 *(Contributed to 19% of API performance issues in 2025 reports)*
 
-## * **Broken Function Level Authorization**  
+* **Broken Function Level Authorization**  
 Attackers access privileged functions (like admin actions) by invoking endpoints that lack proper user role checks.  
 *(Observed in 24% of enterprise-grade API audits)*
 
-## * **Unrestricted Access to Sensitive Business Flows**  
+* **Unrestricted Access to Sensitive Business Flows**  
 Automation scripts abuse business logic flaws in APIs to perform actions like bulk purchases or scraping, bypassing limits.  
 *(Emerging concern with rising automation hacks in 2025)*
 
-## * **Server-Side Request Forgery (SSRF)**
+* **Server-Side Request Forgery (SSRF)**
 Attackers trick the API server into making internal requests, often leading to internal data leaks or remote code execution.  
 *(High-impact risk, particularly in multi-cloud environments)*
 
-## * **Security Misconfiguration**  
+* **Security Misconfiguration**  
 Default or misconfigured settings (like open ports or verbose error messages) give attackers easy access to system details.  
 *(Still a top cause of API-related breaches in 2025)*
 
-## * **Improper Inventory Management**  
+* **Improper Inventory Management**  
 Outdated or undocumented APIs remain exposed, letting attackers target forgotten endpoints with known vulnerabilities.  
 *(Detected in over 50% of mature orgs during 2025 risk assessments)*
 
-## * **Unsafe Consumption of APIs**  
+* **Unsafe Consumption of APIs**  
 Blindly trusting third-party APIs without sanitizing responses can let attackers inject malicious data or steal user info.  
 *(Common in third-party integrations; flagged in 30% of supply chain attacks)*
 
