@@ -98,7 +98,7 @@ print("Sentiment:", result[0]['label'], "| Score:", result[0]['score'])
 # **Comparing SLMs and LLMs**
 
 | Metric          | Small Language Models     | Large Language Models        |
-| :-------------- | :-----------------------: | ---------------------------: |
+| :-------------- | :------------------------ | :--------------------------- |
 | Parameters      | Millions to few billions  | Tens to hundreds of billions |
 | Inference Speed | Faster, low latency       | Slower, higher latency       |
 | Deployment      | On-device, edge, mobile   | Cloud, specialized hardware  |
